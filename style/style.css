@@ -385,18 +385,18 @@
   height: auto;
 }
 
-.content {
+.page-content {
   padding: 50px 0;
 }
 
-.content h2 {
+.page-content h2 {
   padding: 30px;
   padding-left: 50px;
   padding-bottom: 0;
   border-left: 3px solid #7D327D;
 }
 
-.content p {
+.page-content p {
   line-height: 2.7rem;
   font-size: 1.2rem;
   padding: 50px;
@@ -419,5 +419,21 @@
   font-size: 1.5rem;
   color: #7D327D;
   padding: 0 50px;
+}
+
+footer {
+  font-size: 0.8rem;
+}
+
+footer p {
+  padding: 20px;
+}
+
+footer a {
+  color: #7D327D;
+}
+
+footer a:hover {
+  color: black;
 }
 /*# sourceMappingURL=style.css.map */
